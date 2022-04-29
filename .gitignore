@@ -76,3 +76,7 @@ DerivedDataCache/*
 */Binaries/*
 */Saved/*
 */Intermediate/*
+
+*/Content/02/midbody.uasset
+*/Content/02/midcloth_Dress.uasset
+*/Content/02/midcloth_T.uasset
